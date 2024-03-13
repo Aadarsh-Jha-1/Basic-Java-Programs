@@ -24,7 +24,7 @@ public class MethodCalling {
 }
 
 
-/* In this example: 
+/* In this code: 
 
 1. We identified the add method to call. 
 
